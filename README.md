@@ -3,7 +3,7 @@ A collection of R programming assignments completed as part of an introductory d
 
 ## Description:
 **Author:** Joseph L.  
-**Course:** Statistical Methods
+**Course:** Statistical Methods  
 **Semester:** Spring 2026  
 
 ## License
